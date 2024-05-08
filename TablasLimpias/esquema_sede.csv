@@ -1,0 +1,164 @@
+sede_id,sede_tipo,n_secciones,iso3_sede
+EISIA,Embajada,5,IDN
+EFRUS,Embajada,13,RUS
+EALEM,Embajada,10,DEU
+ECOLO,Embajada,7,COL
+ETUNE,Embajada,7,TUN
+ECEUR,Misión  Permanente ,6,BEL
+CPCAR,Consulado,1,MEX
+EVENE,Embajada,5,VEN
+EARGE,Embajada,6,DZA
+EJAMA,Embajada,3,JAM
+CVIGO,Consulado,3,ESP
+ERICA,Embajada,2,CRI
+ELBIA,Embajada,2,LBY
+ENICA,Embajada,1,NIC
+CCOLO,Consulado,0,URY
+EARAB,Embajada,0,SAU
+CBEIJ,Consulado,0,CHN
+CFDIG,Consulado,0,BRA
+CSLTO,Consulado,0,URY
+EBANG,Embajada,0,BGD
+EUNES,Misión  Permanente ,0,FRA
+EBULG,Embajada,0,BGR
+CANTO,Consulado,0,CHL
+CCEST,Consulado,0,PRY
+EJAPO,Embajada,6,JPN
+EPNMA,Embajada,4,PAN
+ENIGE,Embajada,6,NGA
+EPBAJ,Embajada,4,NLD
+EMARR,Embajada,5,MAR
+EHOND,Embajada,4,HND
+CRECI,Consulado,5,BRA
+EVIET,Embajada,4,VNM
+ERUMA,Embajada,2,ROU
+CFRAN,Consulado  General  y  Centro  de  Promoción ,4,DEU
+CYACU,Consulado,0,BOL
+CTENE,Consulado,0,ESP
+CSIGO,Consulado,0,CHL
+CROMA,Consulado,0,ITA
+CPAYS,Consulado,0,URY
+CJOHA,Consulado,0,ZAF
+CASUN,Consulado,0,PRY
+EPARA,Embajada,0,PRY
+CPMON,Consulado,0,CHL
+EPERU,Embajada,7,PER
+EKUWA,Embajada,5,KWT
+EFRAN,Embajada,9,FRA
+ETRIN,Embajada,1,TTO
+CBARC,Consulado  General  y  Centro  de  Promoción ,6,ESP
+CSCRS,Consulado  General  y  Centro  de  Promoción ,4,BOL
+EDINA,Embajada,4,DNK
+ELBNO,Embajada,5,LBN
+EASIR,Embajada,1,SYR
+CCHIC,Consulado,2,USA
+EAZER,Embajada,5,AZE
+CLOND,Consulado,0,GRB
+CCOCH,Consulado,0,BOL
+CMALD,Consulado,0,URY
+CENCA,Consulado,0,PRY
+CMEXI,Consulado,0,MEX
+ESENE,Embajada,0,SEN
+EPORT,Embajada,5,PRT
+EEEUU,Embajada,11,USA
+ECHIN,Embajada,8,CHN
+EISRA,Embajada,3,ISR
+ESAFR,Embajada,4,ZAF
+EEGIP,Embajada,6,EGY
+CMIAM,Consulado  General  y  Centro  de  Promoción ,8,USA
+ECANA,Embajada,4,CAN
+EFINL,Embajada,2,FIN
+ECORE,Embajada,5,KOR
+EPAKI,Embajada,2,PAK
+EIRAN,Embajada,1,IRN
+EUCRA,Embajada,4,UKR
+EFILI,Embajada,4,PHL
+CRIOJ,Consulado,4,BRA
+CMDEO,Consulado,0,URY
+CVILL,Consulado,0,BOL
+CMALL,Consulado,0,ESP
+CFLOR,Consulado,0,BRA
+CTARI,Consulado,0,BOL
+CGUAN,Consulado,0,CHN
+CGVAN,Consulado,0,CAN
+OCCAT,Consulado,0,CHN
+CSBAH,Consulado,0,BRA
+CBELO,Consulado,0,BRA
+CLIMA,Consulado,0,PER
+EHAIT,Embajada,7,HTI
+EGUAT,Embajada,3,GTM
+ETAIL,Embajada,6,THA
+EBRAS,Embajada,7,BRA
+EHILE,Embajada,14,CHL
+CHONG,Consulado,2,CHN
+EINDI,Embajada,4,IND
+EARME,Embajada,3,ARM
+EANGO,Embajada,6,AGO
+EAUST,Embajada,5,AUS
+CMILA,Consulado  General  y  Centro  de  Promoción ,3,ITA
+CGMUM,Consulado  General  y  Centro  de  Promoción ,3,IND
+EEARB,Embajada,3,ARE
+EMSIA,Embajada,3,MYS
+CSHAN,Consulado  General  y  Centro  de  Promoción ,7,CHN
+CPABL,Consulado  General  y  Centro  de  Promoción ,1,BRA
+EBELG,Embajada,5,BEL
+EURUG,Embajada,4,URY
+CURUG,Consulado,1,BRA
+CHAMB,Consulado,0,DEU
+CLANG,Consulado  General  y  Centro  de  Promoción ,0,USA
+CALEG,Consulado,0,BRA
+CGEST,Consulado  General  y  Centro  de  Promoción ,0,TUR
+DIGAC,Sede  Fija ,0,ARG
+CAREN,Consulado,0,CHL
+CNYOR,Consulado  General  y  Centro  de  Promoción ,9,USA
+ESALV,Embajada,5,SLV
+EBOLV,Embajada,12,BOL
+EUNGR,Embajada,5,HUN
+EMOZA,Embajada,8,MOZ
+EESPA,Embajada,7,ESP
+ESING,Embajada,4,SGP
+CGTEL,Consulado,2,ISR
+EGREC,Embajada,4,GRC
+CSIDN,Consulado,3,AUS
+ESERB,Embajada,4,SRB
+EIRLA,Embajada,4,IRL
+ESUEC,Embajada,4,SWE
+CTORO,Consulado,3,CAN
+ESSED,Embajada,6,VAT
+CMADR,Consulado,0,ESP
+ENAUN,Misión  Permanente ,0,USA
+CBONN,Consulado,0,DEU
+CGPAZ,Consulado,0,BOL
+CHOUS,Consulado,0,USA
+ELUCI,Embajada,0,LCA
+EMFAO,Misión  Permanente ,0,ITA
+ECHES,Embajada,5,CZE
+EECUA,Embajada,8,ECU
+ETURQ,Embajada,4,TUR
+CGUAY,Consulado,2,ECU
+ESURI,Embajada,6,SUR
+EITAL,Embajada,10,ITA
+EQATR,Embajada,5,QAT
+EDOMI,Embajada,3,DOM
+ECUBA,Embajada,5,CUB
+EPOLO,Embajada,3,POL
+ENORU,Embajada,3,NOR
+ENZEL,Embajada,3,NZL
+EMSUR,Misión  Permanente ,0,URY
+CCADI,Consulado,0,ESP
+EGUYA,Embajada,0,GUY
+CVALP,Consulado,0,CHL
+EEOEA,Misión  Permanente ,0,USA
+CCURI,Consulado,0,BRA
+CATLA,Consulado,0,USA
+ERUNI,Embajada,12,GRB
+EKENY,Embajada,6,KEN
+EMEXI,Embajada,9,MEX
+ETRIA,Embajada,11,AUT
+ESUIZ,Embajada,5,CHE
+EBARB,Embajada,7,BRB
+EETIO,Embajada,4,ETH
+EOIRS,Misión  Permanente ,0,CHE
+CFBEN,Consulado,0,URY
+CMREA,Consulado,0,CAN
+REPAL,Embajada,0,PSE
